@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexander</h1>
+<h1 align="center">Hello! 안녕하세요! I'm Alexander</h1>
 <h3 align="center">A passionate data analyst</h3>
 
 
