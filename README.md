@@ -1,36 +1,38 @@
 <h1 align="center">Hi, I'm Alexander (sadeclipse) 👋</h1>
-<h3 align="center">Aspiring Data Scientist | Deep Learning & Neural Networks Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Streak" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
 
-## 🔭 Текущий фокус
-Сейчас я активно углубляюсь в **Deep Learning**, уделяя особое внимание архитектурам **Transformers** и их применению в различных задачах ML. Моя цель — не просто использовать готовые модели, а понимать их внутреннюю математику и эффективно внедрять в продакшн-решения.
+## 🔭 Current Focus
+I am currently shifting my focus towards **MLOps** to make my machine learning workflows more professional, reproducible, and scalable.
 
-- 🧠 **Изучаю:** Трансформеры, механизмы Attention, оптимизацию обучения нейросетей.
-- 🏗️ **Инженерия:** Проектирование масштабируемых ML-сервисов с чистой архитектурой.
-- ⚡ **Backlog:** В планах изучение Streamlit для быстрого прототипирования ML-интерфейсов (из наших прошлых бесед).
+- 🐳 **Learning:** **Docker** for containerization and environment consistency.
+- 📉 **Learning:** **MLflow** for experiment tracking, model versioning, and lifecycle management.
 
 ## 🛠 Tech Stack
 ![Python](https://shields.io) 
-![PyTorch](https://shields.io)
 ![FastAPI](https://shields.io)
 ![Scikit-Learn](https://shields.io)
 ![Optuna](https://shields.io)
-![Pandas](https://shields.io)
+![MySQL](https://shields.io)
 
-## 📂 Избранные проекты
-
-### 🤖 Deep Learning & ML Core
-*   **Custom Linear Regression** — Реализация алгоритма с нуля (From Scratch) для глубокого понимания градиентного спуска и матричных вычислений.
-*   **ML Pipeline Optimization** — Построение надежных пайплайнов в `scikit-learn` с автоматическим подбором гиперпараметров через `Optuna`.
+## 📂 Featured Projects
 
 ### ⚡ Full-stack ML Engineering
-*   **Sleep Quality Analysis Service** — Комплексное приложение для оценки качества сна.
-    *   **Архитектура:** Строгое разделение на 3 слоя (Business Logic, Routing, Data Access).
-    *   **Стек:** FastAPI, SQLAlchemy (DB), простой Frontend для взаимодействия.
-    *   **Особенность:** Реализован чистый код и независимость слоев, что упрощает тестирование и масштабирование.
+*   **Sleep Quality Analysis Service** — A comprehensive application for assessing sleep quality.
+    *   **Architecture:** Implemented a robust **3-layer architecture** (Business Logic, Routing, and Data Access layers).
+    *   **Stack:** FastAPI, SQL Database, and a basic Frontend.
+
+### 🤖 Machine Learning Core
+*   **Custom Linear Regression** — A "from scratch" implementation to master optimization and gradient descent.
+*   **ML Pipeline & Hyperparameter Tuning** — Utilizing **scikit-learn pipelines** and **Optuna**.
+*   **Exploratory Data Analysis (EDA)** — Deep dive into datasets using Pandas and Matplotlib.
+
+## 📝 Learning Backlog
+- 🧠 **Advanced Neural Networks:** Deep dive into **Transformers** and Attention mechanisms.
+- 📊 **Streamlit:** For rapid prototyping of ML web interfaces.
 
 ## 📊 GitHub Analytics
 <p align="left">
