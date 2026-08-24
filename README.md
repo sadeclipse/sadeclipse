@@ -4,10 +4,6 @@
 
 <h3 align="center">🚀 Aspiring Data Scientist · MLOps Enthusiast</h3>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeclipse&theme=radical" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🔭 Current Focus
@@ -47,19 +43,3 @@ I am currently shifting my focus towards **MLOps** to make my machine learning w
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadeclipse&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeclipse&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-</p>
-
----
-
-<p align="center">
-  <!-- Счётчик посещений – работает надёжно, цвет фиолетовый -->
-  <img src="https://komarev.com/ghpvc/?username=sadeclipse&color=8A2BE2" alt="Profile Views" />
-  <!-- Альтернативный вариант (раскомментируй, если хочешь попробовать другой):
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sadeclipse.sadeclipse&left_color=black&right_color=8A2BE2" alt="Visitors" />
-  -->
-</p>
