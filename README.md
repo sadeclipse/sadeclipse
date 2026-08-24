@@ -1,9 +1,14 @@
-<h1 align="center">Hi, I'm Alexander (sadeclipse) 👋</h1>
-<h3 align="center">Aspiring Data Scientist</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Alexander+(sadeclipse);Aspiring+Data+Scientist" alt="Typing SVG" />
+</p>
+
+<h3 align="center">🚀 Aspiring Data Scientist · MLOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://vercel.app" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeclipse&theme=default" alt="GitHub Streak" />
 </p>
+
+---
 
 ## 🔭 Current Focus
 I am currently shifting my focus towards **MLOps** to make my machine learning workflows more professional, reproducible, and scalable.
@@ -11,12 +16,15 @@ I am currently shifting my focus towards **MLOps** to make my machine learning w
 - 🐳 **Learning:** **Docker** for containerization and environment consistency.
 - 📉 **Learning:** **MLflow** for experiment tracking, model versioning, and lifecycle management.
 
+---
+
 ## 🛠 Tech Stack
-[![Python](https://shields.io)](https://python.org)
-[![FastAPI](https://shields.io)](https://tiangolo.com)
-[![Scikit-Learn](https://shields.io)](https://scikit-learn.org)
-[![Optuna](https://shields.io)](https://optuna.org)
-[![MySQL](https://shields.io)](https://mysql.com)
+
+| **Languages & Frameworks** | **ML & Data** | **Databases & Tools** |
+|----------------------------|---------------|------------------------|
+| [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) <br> [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) | [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) <br> [![Optuna](https://img.shields.io/badge/Optuna-5A2E8A?style=flat-square&logo=optuna&logoColor=white)](https://optuna.org) <br> [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com) <br> [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org) | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com) <br> [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) |
+
+---
 
 ## 📂 Featured Projects
 
@@ -31,16 +39,23 @@ I am currently shifting my focus towards **MLOps** to make my machine learning w
 *   **ML Pipeline & Hyperparameter Tuning** — Utilizing **scikit-learn pipelines** integrated with **Optuna** for automated and efficient hyperparameter optimization.
 *   **Exploratory Data Analysis (EDA)** — Deep dive into datasets using Pandas and Matplotlib to extract actionable insights.
 
+---
+
 ## 📝 Learning Backlog
 - 🧠 **Advanced Neural Networks:** Deep dive into **Transformers** and Attention mechanisms.
 - 📊 **Streamlit:** For rapid prototyping of ML web interfaces.
 
+---
+
 ## 📊 GitHub Analytics
-<p align="left">
-  <img src="https://vercel.app" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadeclipse&show_icons=true&theme=default" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeclipse&layout=compact&theme=default" alt="Top Languages" height="180em" />
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://glitch.me" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/sadeclipse/count.svg" alt="Visitor Count" />
 </p>
