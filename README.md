@@ -1,11 +1,43 @@
-<h1 align="center">Hello! I'm Alexander</h1>
-<h3 align="center">A passionate data science wannabe</h3>
+<h1 align="center">Hi, I'm Alexander (sadeclipse) 👋</h1>
+<h3 align="center">Aspiring Data Scientist | Deep Learning & Neural Networks Enthusiast</h3>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=sadeclipse&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeclipse&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Streak" />
+</p>
+
+## 🔭 Текущий фокус
+Сейчас я активно углубляюсь в **Deep Learning**, уделяя особое внимание архитектурам **Transformers** и их применению в различных задачах ML. Моя цель — не просто использовать готовые модели, а понимать их внутреннюю математику и эффективно внедрять в продакшн-решения.
+
+- 🧠 **Изучаю:** Трансформеры, механизмы Attention, оптимизацию обучения нейросетей.
+- 🏗️ **Инженерия:** Проектирование масштабируемых ML-сервисов с чистой архитектурой.
+- ⚡ **Backlog:** В планах изучение Streamlit для быстрого прототипирования ML-интерфейсов (из наших прошлых бесед).
+
+## 🛠 Tech Stack
+![Python](https://shields.io) 
+![PyTorch](https://shields.io)
+![FastAPI](https://shields.io)
+![Scikit-Learn](https://shields.io)
+![Optuna](https://shields.io)
+![Pandas](https://shields.io)
+
+## 📂 Избранные проекты
+
+### 🤖 Deep Learning & ML Core
+*   **Custom Linear Regression** — Реализация алгоритма с нуля (From Scratch) для глубокого понимания градиентного спуска и матричных вычислений.
+*   **ML Pipeline Optimization** — Построение надежных пайплайнов в `scikit-learn` с автоматическим подбором гиперпараметров через `Optuna`.
+
+### ⚡ Full-stack ML Engineering
+*   **Sleep Quality Analysis Service** — Комплексное приложение для оценки качества сна.
+    *   **Архитектура:** Строгое разделение на 3 слоя (Business Logic, Routing, Data Access).
+    *   **Стек:** FastAPI, SQLAlchemy (DB), простой Frontend для взаимодействия.
+    *   **Особенность:** Реализован чистый код и независимость слоев, что упрощает тестирование и масштабирование.
+
+## 📊 GitHub Analytics
+<p align="left">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sadeclipse&icon=1&color=4)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://itsvg.in" alt="Visit Count" />
+</p>
