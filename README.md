@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Alexander+(sadeclipse);Aspiring+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9B30FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Alexander+(sadeclipse);Aspiring+Data+Scientist;MLOps+Enthusiast" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 Aspiring Data Scientist · MLOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeclipse&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadeclipse&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -22,7 +22,7 @@ I am currently shifting my focus towards **MLOps** to make my machine learning w
 
 | **Languages & Frameworks** | **ML & Data** | **Databases & Tools** |
 |----------------------------|---------------|------------------------|
-| [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org) <br> [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) | [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) <br> [![Optuna](https://img.shields.io/badge/Optuna-5A2E8A?style=flat-square&logo=optuna&logoColor=white)](https://optuna.org) <br> [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com) <br> [![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org) | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com) <br> [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) |
+| [![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat-square&logo=python&logoColor=white)](https://python.org) <br> [![FastAPI](https://img.shields.io/badge/FastAPI-6A0DAD?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com) | [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-6A0DAD?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org) <br> [![Optuna](https://img.shields.io/badge/Optuna-6A0DAD?style=flat-square&logo=optuna&logoColor=white)](https://optuna.org) <br> [![Docker](https://img.shields.io/badge/Docker-6A0DAD?style=flat-square&logo=docker&logoColor=white)](https://docker.com) <br> [![MLflow](https://img.shields.io/badge/MLflow-6A0DAD?style=flat-square&logo=mlflow&logoColor=white)](https://mlflow.org) | [![MySQL](https://img.shields.io/badge/MySQL-6A0DAD?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com) <br> [![Git](https://img.shields.io/badge/Git-6A0DAD?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) |
 
 ---
 
@@ -50,12 +50,16 @@ I am currently shifting my focus towards **MLOps** to make my machine learning w
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadeclipse&show_icons=true&theme=default" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeclipse&layout=compact&theme=default" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sadeclipse&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadeclipse&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sadeclipse/count.svg" alt="Visitor Count" />
+  <!-- Счётчик посещений – работает надёжно, цвет фиолетовый -->
+  <img src="https://komarev.com/ghpvc/?username=sadeclipse&color=8A2BE2" alt="Profile Views" />
+  <!-- Альтернативный вариант (раскомментируй, если хочешь попробовать другой):
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sadeclipse.sadeclipse&left_color=black&right_color=8A2BE2" alt="Visitors" />
+  -->
 </p>
