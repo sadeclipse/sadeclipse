@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9B30FF&center=true&vCenter=true&width=435&lines=Hi%2C+I%27m+Alexander+%28sadeclipse%29%3BAspiring+Data+Scientist%3BMLOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=9B30FF&center=true&vCenter=true&width=600&lines=Hi%2C%20I%27m%20Alexander%20%28sadeclipse%29%3BAspiring%20Data%20Scientist%3BMLOps%20Enthusiast&v=2" alt="Typing SVG" />
 </p>
-
 <h3 align="center">🚀 Aspiring Data Scientist · MLOps Enthusiast</h3>
 
 ---
